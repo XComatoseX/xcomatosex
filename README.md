@@ -12,7 +12,7 @@
 
 - 💎 My dream - travel the world
 
-- ⚡ A bit earlier, I worked on the development discord bots, but now I learn fronend
+- ⚡ A bit earlier, I worked on the development discord bots, but now I learn frontend
 
 ## 🎨 Languages and Tools:
 <p>
